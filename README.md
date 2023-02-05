@@ -1,1 +1,1 @@
-# AnmarX-nmr.github.io
+# AnmarX.github.io
